@@ -7,8 +7,8 @@ Specifics: Plate number recogition and classification (Letters [A-Z] and numbers
 
 Input: any photo of a car where the license plate is visible
 Output: list of the components associated with their individual images, i.e.:
-	  "N"	  "U"	  "C"	  "6"	  "1"	  "0"	  "9"	<--- List of np.alpha characters
 
+	  "N"	  "U"	  "C"	  "6"	  "1"	  "0"	  "9"	<--- List of np.alpha characters
 	img_1	img_2	img_3	img_4	img_5	img_6	img_7	<--- Each character of the plate
 
 
